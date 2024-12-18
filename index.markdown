@@ -4,3 +4,6 @@
 
 layout: home
 ---
+Hello! Nice to meet you :D
+
+I'm Joanna, a third year cognitive science student at UCLA.

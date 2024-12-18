@@ -27,7 +27,7 @@ twitter_username: mangojammies
 github_username:  jomnaq
 
 # Build settings
-theme: hacker
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 

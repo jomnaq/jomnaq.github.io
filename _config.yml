@@ -22,8 +22,6 @@ title: joanna liu
 email: jjliu7@g.ucla.edu
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jomnaq.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: mangojammies
 github_username:  jomnaq
 
 # Build settings

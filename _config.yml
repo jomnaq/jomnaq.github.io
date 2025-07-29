@@ -48,8 +48,8 @@ author:
 # keybase           : your_username
 
 
-### Posts ###
-permalink: /blog/:title
+# ### Posts ###
+# permalink: /blog/:title
 
 
 ### Collections ###

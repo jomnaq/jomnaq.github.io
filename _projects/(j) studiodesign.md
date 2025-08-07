@@ -10,7 +10,7 @@ description: mascot design and branding to better market UCLA's game development
     The first design project I had with ACM Studio was designing a sticker of the club's mascot that recently debuted, Sooper. Below was the progression of the design, from rough sketch and clean sketch in Procreate to the final design in Figma.
   </p>
   <div style="display: flex; justify-content: space-between;">
-    <img src="/images/studio_design/stickerpipeline.png" alt="Image 1" style="width: 100%;">
+    <img src="/images/studio_design/sticker_pipeline.png" alt="Image 1" style="width: 100%;">
   </div>
   <p> 
     I also helped with other marketing graphics for the club, including the following post of our club's schedule and beach social event. 
